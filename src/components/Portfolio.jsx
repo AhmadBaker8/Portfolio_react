@@ -14,7 +14,7 @@ export default function Portfolio() {
       <div className="portfolio">
         <div className="container d-flex flex-column gap-4 align-items-center">
             <h2>PORTFOLIO</h2>
-            <CustomIcon color="dark"/>
+            <CustomIcon color="#2C3E50"/>
             <div className="row">
                 <CustomPortfolio img={myImage1}/>
                 <CustomPortfolio img={myImage2}/>

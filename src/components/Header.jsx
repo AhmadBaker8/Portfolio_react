@@ -11,7 +11,7 @@ export default function header() {
         <div className="content-header d-flex flex-column gap-4 align-items-center">
             <img className='header-img' src={myImage} alt="" />
             <h1 className='text-light fw-bold'>Start Bootstrap</h1>
-            <CustomIcon color='light'/>
+            <CustomIcon color='#fff'/>
             <p className='text-light fs-2'>Graphic Artist - Web Designer - Illustrator</p>
         </div>
       </div>
